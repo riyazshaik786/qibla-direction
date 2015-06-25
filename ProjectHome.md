@@ -1,0 +1,1 @@
+The app will find the user's location and calculate the direction from users location to qibal and show it like compass.
